@@ -42,14 +42,8 @@
       <setting name="TotalShelfPositions" serializeAs="String">
         <value>12</value>
       </setting>
-      <setting name="ScaleCOM" serializeAs="String">
-        <value>COM9</value>
-      </setting>
-      <setting name="BatmanCOM" serializeAs="String">
-        <value>COM4</value>
-      </setting>
       <setting name="ScaleBaud" serializeAs="String">
-        <value>19200</value>
+        <value>250000</value>
       </setting>
       <setting name="BatmanBaud" serializeAs="String">
         <value>250000</value>
@@ -60,10 +54,10 @@
       <setting name="RepeatCount" serializeAs="String">
         <value>4</value>
       </setting>
-      <setting name="MaxEmptyPanWeight" serializeAs="String">
+      <setting name="MaxEmptyPanWeightG" serializeAs="String">
         <value>3</value>
       </setting>
-      <setting name="MinimumSampleMass" serializeAs="String">
+      <setting name="MinimumSampleMassG" serializeAs="String">
         <value>10</value>
       </setting>
       <setting name="SampleMassSaveFolderDIR" serializeAs="String">
@@ -78,8 +72,20 @@
       <setting name="FlashedFirmwareVersion" serializeAs="String">
         <value>0</value>
       </setting>
-      <setting name="MaxBeakerStdDev" serializeAs="String">
+      <setting name="MaxBeakerRelStdDev" serializeAs="String">
         <value>0.5</value>
+      </setting>
+      <setting name="ScaleCOM" serializeAs="String">
+        <value>COM9</value>
+      </setting>
+      <setting name="BatmanCOM" serializeAs="String">
+        <value>COM3</value>
+      </setting>
+      <setting name="RequiredSequentialMassesCount" serializeAs="String">
+        <value>50</value>
+      </setting>
+      <setting name="AllowedMassDeviationG" serializeAs="String">
+        <value>1E-05</value>
       </setting>
     </FCMWeighTerm.Properties.Settings>
   </userSettings>
