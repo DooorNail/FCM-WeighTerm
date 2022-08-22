@@ -1,0 +1,9011 @@
+'FCM WeighTerm.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'FCM WeighTerm.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Users\perho\Source\Repos\DooorNail\FCM_LIMS\FCM WeighTerm\FCM WeighTerm\bin\Debug\FCM WeighTerm.exe'. Symbols loaded.
+'FCM WeighTerm.exe' (CLR v4.0.30319: FCM WeighTerm.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework\v4.0_4.0.0.0__31bf3856ad364e35\PresentationFramework.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'FCM WeighTerm.exe' (CLR v4.0.30319: FCM WeighTerm.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\WindowsBase\v4.0_4.0.0.0__31bf3856ad364e35\WindowsBase.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'FCM WeighTerm.exe' (CLR v4.0.30319: FCM WeighTerm.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'FCM WeighTerm.exe' (CLR v4.0.30319: FCM WeighTerm.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'FCM WeighTerm.exe' (CLR v4.0.30319: FCM WeighTerm.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\PresentationCore\v4.0_4.0.0.0__31bf3856ad364e35\PresentationCore.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'FCM WeighTerm.exe' (CLR v4.0.30319: FCM WeighTerm.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xaml\v4.0_4.0.0.0__b77a5c561934e089\System.Xaml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'FCM WeighTerm.exe' (CLR v4.0.30319: FCM WeighTerm.exe): Loaded 'C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Remote Debugger\x86\Runtime\Microsoft.VisualStudio.Debugger.Runtime.Desktop.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Step into: Stepping over non-user code 'FCMWeighTerm.App..ctor'
+'FCM WeighTerm.exe' (CLR v4.0.30319: FCM WeighTerm.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'FCM WeighTerm.exe' (CLR v4.0.30319: FCM WeighTerm.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Step into: Stepping over non-user code 'FCMWeighTerm.App.InitializeComponent'
+'FCM WeighTerm.exe' (CLR v4.0.30319: FCM WeighTerm.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework.Aero2\v4.0_4.0.0.0__31bf3856ad364e35\PresentationFramework.Aero2.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Step into: Stepping over non-user code 'FCMWeighTerm.Theme.WeighingQueueTheme..ctor'
+Step into: Stepping over non-user code 'FCMWeighTerm.Theme.WeighingQueueTheme.System.Windows.Markup.IComponentConnector.Connect'
+'FCM WeighTerm.exe' (CLR v4.0.30319: FCM WeighTerm.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'FCM WeighTerm.exe' (CLR v4.0.30319: FCM WeighTerm.exe): Loaded 'C:\Users\perho\Source\Repos\DooorNail\FCM_LIMS\FCM WeighTerm\FCM WeighTerm\bin\Debug\MySql.Data.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'FCM WeighTerm.exe' (CLR v4.0.30319: FCM WeighTerm.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\System.Transactions\v4.0_4.0.0.0__b77a5c561934e089\System.Transactions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'FCM WeighTerm.exe' (CLR v4.0.30319: FCM WeighTerm.exe): Loaded 'C:\Users\perho\Source\Repos\DooorNail\FCM_LIMS\FCM WeighTerm\FCM WeighTerm\bin\Debug\Dapper.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'FCM WeighTerm.exe' (CLR v4.0.30319: FCM WeighTerm.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml.Linq\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.Linq.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'FCM WeighTerm.exe' (CLR v4.0.30319: FCM WeighTerm.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\System.EnterpriseServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'FCM WeighTerm.exe' (CLR v4.0.30319: FCM WeighTerm.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\System.EnterpriseServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.Wrapper.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'FCM WeighTerm.exe' (CLR v4.0.30319: FCM WeighTerm.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Management\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Management.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+The thread 0xa60 has exited with code 0 (0x0).
+COM3: -> SS04B21BA2
+'FCM WeighTerm.exe' (CLR v4.0.30319: FCM WeighTerm.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework-SystemData\v4.0_4.0.0.0__b77a5c561934e089\PresentationFramework-SystemData.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+SS08B3002F8BE14ED9
+Good packet
+COM3: -> SS04BA9B91
+'FCM WeighTerm.exe' (CLR v4.0.30319: FCM WeighTerm.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Numerics\v4.0_4.0.0.0__b77a5c561934e089\System.Numerics.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+COM3: <- SS04FF1A0C
+Good packet
+'FCM WeighTerm.exe' (CLR v4.0.30319: FCM WeighTerm.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework-SystemXmlLinq\v4.0_4.0.0.0__b77a5c561934e089\PresentationFramework-SystemXmlLinq.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'FCM WeighTerm.exe' (CLR v4.0.30319: FCM WeighTerm.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework-SystemXml\v4.0_4.0.0.0__b77a5c561934e089\PresentationFramework-SystemXml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'FCM WeighTerm.exe' (CLR v4.0.30319: FCM WeighTerm.exe): Loaded 'c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\xamldiagnostics\Framework\x86\Microsoft.VisualStudio.DesignTools.WpfTap.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'FCM WeighTerm.exe' (CLR v4.0.30319: FCM WeighTerm.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Serialization\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Serialization.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'FCM WeighTerm.exe' (CLR v4.0.30319: FCM WeighTerm.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\SMDiagnostics\v4.0_4.0.0.0__b77a5c561934e089\SMDiagnostics.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'FCM WeighTerm.exe' (CLR v4.0.30319: FCM WeighTerm.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel.Internals\v4.0_4.0.0.0__31bf3856ad364e35\System.ServiceModel.Internals.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'FCM WeighTerm.exe' (CLR v4.0.30319: FCM WeighTerm.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\UIAutomationTypes\v4.0_4.0.0.0__31bf3856ad364e35\UIAutomationTypes.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'FCM WeighTerm.exe' (CLR v4.0.30319: FCM WeighTerm.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\UIAutomationProvider\v4.0_4.0.0.0__31bf3856ad364e35\UIAutomationProvider.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+System.Windows.Data Error: 2 : Cannot find governing FrameworkElement or FrameworkContentElement for target element. BindingExpression:Path=BackgroundGradientColourStart; DataItem=null; target element is 'GradientStop' (HashCode=65573909); target property is 'Color' (type 'Color')
+System.Windows.Data Error: 2 : Cannot find governing FrameworkElement or FrameworkContentElement for target element. BindingExpression:Path=BackgroundGradientColourEnd; DataItem=null; target element is 'GradientStop' (HashCode=9886408); target property is 'Color' (type 'Color')
+COM9: -> @
+
+COM3: -> SS04BB1B94
+COM9: -> @
+
+COM3: <- SS04FF1A0C
+Good packet
+COM9: <- I4 A "C144874632"
+COM3: -> SS04AB9BF7
+COM9: -> C3
+
+COM3: <- SS04FF1A0C
+Good packet
+COM3: -> SS04A91BF8
+COM3: <- SS04FF1A0C
+Good packet
+COM9: <- C3 B
+The thread 0x19e8 has exited with code 0 (0x0).
+The thread 0x4b04 has exited with code 0 (0x0).
+COM3: <- SS04A89BFD
+Good packet
+COM3: -> SS04BB1B94
+COM3: <- SS04FF1A0C
+Good packet
+COM3: -> SS04A29BC1
+COM3: <- SS04FF1A0C
+Good packet
+COM3: <- SS0BA3045CB4E25372814871
+Good packet
+UID Rec.
+Tray present
+Done
+COM3: -> SS04A29BC1
+COM3: <- SS04FF1A0C
+Good packet
+COM3: <- SS0BA3045CB4E25372814871
+Good packet
+UID Rec.
+Tray present
+Done
+COM3: -> SS04A29BC1
+COM3: <- SS04FF1A0C
+Good packet
+COM3: <- SS0BA3045CB4E25372814871
+Good packet
+UID Rec.
+Tray present
+Done
+COM3: -> SS04A29BC1
+COM3: <- SS04FF1A0C
+Good packet
+COM3: <- SS0BA3045CB4E25372814871
+Good packet
+UID Rec.
+Tray present
+Done
+Halted due to error: Tray on tray spinner
+The thread 0x3a40 has exited with code 0 (0x0).
+The thread 0x5b8 has exited with code 0 (0x0).
+The thread 0x2530 has exited with code 0 (0x0).
+The thread 0xbfc has exited with code 0 (0x0).
+COM9: <- C3 A
+The thread 0x2de8 has exited with code 0 (0x0).
+COM3: -> SS04BB1B94
+COM9: -> @
+
+COM3: <- SS04FF1A0C
+Good packet
+COM9: <- I4 A "C144874632"
+COM3: -> SS04AB9BF7
+COM9: -> C3
+
+COM3: <- SS04FF1A0C
+Good packet
+COM3: -> SS04A91BF8
+COM3: <- SS04FF1A0C
+Good packet
+COM9: <- C3 B
+The thread 0x3350 has exited with code 0 (0x0).
+COM3: <- SS04A89BFD
+Good packet
+COM3: -> SS04BB1B94
+COM3: <- SS04FF1A0C
+Good packet
+COM3: -> SS04A29BC1
+COM3: <- SS04FF1A0C
+Good packet
+COM3: <- SS0BA300000000000000DA5A
+Good packet
+UID Rec.
+Done
+The thread 0x3590 has exited with code 0 (0x0).
+The thread 0x3984 has exited with code 0 (0x0).
+The thread 0x2b84 has exited with code 0 (0x0).
+COM9: <- C3 A
+COM9: -> Z
+
+COM9: <- Z A
+COM9: -> K 2
+
+COM9: <- K A
+COM9: -> D "FCM Scale"
+
+COM3: -> SS05A100C84E
+COM9: -> WS
+
+COM9: <- D A
+COM9: <- WS A 0
+COM9: -> WS 2
+
+COM3: <- SS04FF1A0C
+Good packet
+COM9: <- WS A
+COM9: -> WS
+
+COM9: <- WS A 0
+COM9: -> WS 2
+
+COM9: <- WS A
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 2
+COM9: -> SI
+
+COM9: <- S S    0.00000 g
+The thread 0xfdc has exited with code 0 (0x0).
+COM3: <- SS04A89BFD
+Good packet
+COM3: -> SS04A29BC1
+COM3: <- SS04FF1A0C
+Good packet
+COM3: <- SS0BA3045CB4E25372814871
+Good packet
+UID Rec.
+Tray present
+Done
+COM3: -> SS04C01A8E
+COM3: <- SS04FF1A0C
+Good packet
+The thread 0x386c has exited with code 0 (0x0).
+COM3: <- SS04A89BFD
+Good packet
+COM3: -> SS05A400D64E
+COM3: <- SS04FF1A0C
+Good packet
+COM3: <- SS04A89BFD
+Good packet
+COM3: -> SS04A51BD0
+COM3: <- SS04FF1A0C
+Good packet
+The thread 0xf24 has exited with code 0 (0x0).
+COM3: <- SS04A89BFD
+Good packet
+COM9: -> WS
+
+COM9: <- WS A 2
+COM9: -> WS 0
+
+COM9: <- WS A
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 0
+COM9: -> S
+
+COM9: <- S S   33.61757 g
+COM9: -> SIR
+
+COM9: <- S S   33.61757 g
+Mass stable <1>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <2>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <3>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <4>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <5>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <6>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <7>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <8>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <9>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <10>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <11>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <12>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <13>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <14>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <15>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <16>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <17>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <18>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <19>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <20>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <21>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <22>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <23>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <24>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <25>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <26>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <27>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <28>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <29>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <30>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <31>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <32>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <33>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <34>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <35>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <36>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <37>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <38>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <39>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <40>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <41>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <42>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <43>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <44>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <45>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <46>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <47>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <48>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <49>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <50>: 33,61757
+COM9: <- S S   33.61757 g
+Mass stable <51>: 33,61757
+COM9: -> SI
+
+COM9: -> WS
+
+COM9: <- WS A 0
+COM9: <- S S   33.61757 g
+COM9: -> WS
+
+COM9: <- WS A 0
+COM9: -> WS 2
+
+COM9: <- WS A
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 2
+COM3: -> SS05A6005A4D
+COM9: -> WS
+
+COM9: <- WS A 2
+COM9: -> WS 0
+
+COM3: <- SS04FF1A0C
+Good packet
+COM9: <- WS A
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 2
+COM9: -> WS 0
+
+COM9: <- WS A
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 0
+COM9: -> K 1
+
+COM9: <- K A
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- 
+COM9: <- WR A
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELWEL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELPEL
+COM9: <- L
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EP
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELPEL
+COM9: <- 
+COM9: <- L
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELP
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <-  L
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- 
+COM9: -> PWR 0
+
+COM9: <- L
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELPWL
+COM9: <- E 
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELP
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <-  L
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- L
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EP
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELWEL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- PL
+COM9: <-  L
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EP
+COM9: <- ELR
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- E 
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELP
+COM9: <-  L
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- RL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EW
+COM9: <- E
+COM9: <- 
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELW
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- ELREP
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- WL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- PL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- E0
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELPEL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- 
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- 
+COM9: <- L
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <-  L
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <-  L
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- ELEL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- E0
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- 0L
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- WL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EW
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- RL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- ELPWEL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELW
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- ELREL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- E 
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <-  L
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <-  L
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- L
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELP
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- ELREL
+COM9: -> PWR 0
+
+COM9: <- ELR
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELP
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELW
+COM9: -> PWR 0
+
+COM9: <- EP
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELP
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <-  L
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- ELPWEL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL0
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- ELEL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EW
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <-  L
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- ELEL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EW
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- ELP
+COM9: <- L
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELWEL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- PL
+COM9: -> PWR 0
+
+COM9: <- EW
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL E0EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EP
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL 
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELW
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL 
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL 
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- RL 
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL0
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM3: -> SS04B11BA8
+COM9: -> WS
+
+COM9: <- EL
+COM9: -> WS
+
+COM9: -> WS
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> WS
+
+COM9: -> WS
+
+COM9: <- EL
+COM9: -> WS
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> WS
+
+COM3: <- SS05F8E49C13
+Good packet
+COM9: <- EL
+Halted due to error: Scale responding: EL
+COM9: -> WS
+
+COM9: <- ELSEL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM3: <- SS04A89BFD
+Good packet
+The thread 0x3550 has exited with code 0 (0x0).
+The thread 0x1adc has exited with code 0 (0x0).
+The thread 0x1aa4 has exited with code 0 (0x0).
+The thread 0x3d70 has exited with code 0 (0x0).
+The thread 0xa34 has exited with code 0 (0x0).
+The thread 0x1600 has exited with code 0 (0x0).
+The thread 0x1c24 has exited with code 0 (0x0).
+The thread 0x3310 has exited with code 0 (0x0).
+COM3: -> SS04BB1B94
+COM9: -> @
+
+COM3: <- SS04FF1A0C
+Good packet
+COM3: -> SS04AB9BF7
+COM3: <- SS04FF1A0C
+Good packet
+COM3: -> SS04A91BF8
+COM9: <- I4 A "C144874632"
+COM9: -> C3
+
+COM3: <- SS04FF1A0C
+Good packet
+COM9: <- C3 B
+The thread 0x3098 has exited with code 0 (0x0).
+The thread 0x3104 has exited with code 0 (0x0).
+The thread 0x3430 has exited with code 0 (0x0).
+The thread 0x405c has exited with code 0 (0x0).
+COM3: -> SS04B11BA8
+COM9: -> WS
+
+COM9: <- WS A 0
+COM9: -> K 1
+
+COM9: <- K A
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- C3 I
+COM9: <- PWR A
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- 
+COM9: <- L
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- 0LEL
+COM9: -> PWR 0
+
+COM9: <- ELP
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EP
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELPWEL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELP
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELW
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELPWL
+COM9: <- L
+COM9: -> PWR 0
+
+COM9: <- ELP
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EWR
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELWEL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- L
+COM9: <- 
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL EL
+COM9: -> PWR 0
+
+COM9: <- ELWEL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- L
+COM9: -> PWR 0
+
+COM9: <- ELPWELREL0EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- PL
+COM9: <- L
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- L
+COM9: <- 
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELWEL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELWELREL
+COM9: <- 
+COM9: <- L
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EP
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELPWL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- 0
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELP
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- RL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELPWEL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELPWEL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- L
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- L
+COM9: -> PWR 0
+
+COM9: <- EP
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELP
+COM9: <- E
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELPWEL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- PL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- E 
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL0L
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELW
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- 
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <-  L
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELWEL
+COM9: <- 
+COM9: <- L
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELPEL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELWEL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELPEL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EPW
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELW
+COM9: <- ELEL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELP
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL 
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- 
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- 0L
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <-  L
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- ELR
+COM9: <- 0L
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- E
+COM9: <- 
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELP
+COM9: <- L
+COM9: -> PWR 0
+
+COM9: <- ELW
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELP
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- 0L
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- 0
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- L
+COM9: -> PWR 0
+
+COM9: <- ELWEL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- 
+COM9: -> PWR 0
+
+COM9: <- L
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EP
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- E 
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- 0L
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- E 
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELWEL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELPWL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELWELREL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EP
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- PW
+COM9: <- ELEL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- 0L
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELW
+COM9: <- L
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EP
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELP
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- 0L
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELWEL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELW
+COM9: <-  0
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELPWEL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELPWL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELP
+COM9: <-  L
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- E 
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- E
+COM9: <- 
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- PL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- ELWEL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- ELPEL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL0
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- E
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- ELREL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- ELPEL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELPEL
+COM9: <-  L
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- ELPEL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELP
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- 0LEL
+COM9: <-  L
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL 
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EW
+COM9: <- L
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <-  L
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EW
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- 
+COM9: <- L
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- WL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- ELWEL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- PL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- 
+COM9: <- L
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- ELPEL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- ELWEL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- WL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL0
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- L
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- ELREL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- E
+COM9: -> PWR 0
+
+COM9: <- 
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EW
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- PL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EPW
+COM3: -> SS04B11BA8
+COM9: <- EL
+COM9: -> WS
+
+COM9: <- EL
+COM9: -> WS
+
+COM9: -> WS
+
+COM9: <- EL
+COM9: -> WS
+
+COM9: <- EL
+COM9: -> WS
+
+COM9: <- EL
+COM9: -> WS
+
+COM9: <- EL
+COM9: -> WS
+
+COM9: <- EL
+Halted due to error: Scale responding: EL
+COM9: -> WS
+
+COM9: <- EL
+COM9: <- EL
+COM3: <- SS04A89BFD
+Good packet
+COM3: <- SS04FF1A0C
+Good packet
+COM3: <- SS05F8E49C13
+Good packet
+COM3: <- SS04A89BFD
+Good packet
+COM9: <- I4 A "C144874632"
+The thread 0x1ac8 has exited with code 0 (0x0).
+The thread 0x41f8 has exited with code 0 (0x0).
+The thread 0x2378 has exited with code 0 (0x0).
+The thread 0xf64 has exited with code 0 (0x0).
+The thread 0xa74 has exited with code 0 (0x0).
+The thread 0x47d0 has exited with code 0 (0x0).
+The thread 0x3964 has exited with code 0 (0x0).
+The thread 0x3e08 has exited with code 0 (0x0).
+The thread 0x2f08 has exited with code 0 (0x0).
+The thread 0x3d34 has exited with code 0 (0x0).
+The thread 0x3684 has exited with code 0 (0x0).
+The thread 0x3920 has exited with code 0 (0x0).
+The thread 0x4300 has exited with code 0 (0x0).
+COM9: -> @
+
+Exception thrown: 'System.IO.IOException' in System.dll
+The thread 0x2970 has exited with code 0 (0x0).
+The thread 0x4414 has exited with code 0 (0x0).
+The thread 0x2a4c has exited with code 0 (0x0).
+COM9: -> @
+
+Exception thrown: 'System.IO.IOException' in System.dll
+The thread 0x44f4 has exited with code 0 (0x0).
+COM9: -> @
+
+The thread 0x4014 has exited with code 0 (0x0).
+The thread 0x2838 has exited with code 0 (0x0).
+The thread 0x3614 has exited with code 0 (0x0).
+The thread 0x3078 has exited with code 0 (0x0).
+The thread 0x3240 has exited with code 0 (0x0).
+COM3: -> SS04BB1B94
+COM9: -> @
+
+COM3: <- SS04FF1A0C
+Good packet
+COM9: <- I4 A "C144874632"
+COM3: -> SS04AB9BF7
+COM9: -> C3
+
+COM3: <- SS04FF1A0C
+Good packet
+COM3: -> SS04A91BF8
+COM3: <- SS04FF1A0C
+Good packet
+COM9: <- C3 B
+The thread 0x3ab8 has exited with code 0 (0x0).
+COM3: <- SS04A89BFD
+Good packet
+COM3: -> SS04BB1B94
+COM3: <- SS04FF1A0C
+Good packet
+COM3: -> SS04A29BC1
+COM3: <- SS04FF1A0C
+Good packet
+COM3: <- SS0BA300000000000000DA5A
+Good packet
+UID Rec.
+Done
+The thread 0x658 has exited with code 0 (0x0).
+The thread 0x27c has exited with code 0 (0x0).
+The thread 0x2c88 has exited with code 0 (0x0).
+The thread 0x474c has exited with code 0 (0x0).
+COM9: <- C3 A
+COM9: -> Z
+
+COM9: <- Z A
+COM9: -> K 2
+
+COM9: <- K A
+COM9: -> D "FCM Scale"
+
+COM3: -> SS05A100C84E
+COM9: -> WS
+
+COM9: <- D A
+COM9: <- WS A 0
+COM9: -> WS
+
+COM9: -> WS 2
+
+COM9: <- WS A 0
+COM3: <- SS04FF1A0C
+Good packet
+COM9: -> WS 2
+
+COM9: <- WS A
+COM9: -> WS
+
+COM9: <- WS A
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 2
+COM9: -> SI
+
+COM9: <- S S    0.00000 g
+The thread 0x8d8 has exited with code 0 (0x0).
+The thread 0x2c14 has exited with code 0 (0x0).
+COM3: <- SS04A89BFD
+Good packet
+COM3: -> SS04A29BC1
+COM3: <- SS04FF1A0C
+Good packet
+COM3: <- SS0BA3045CB4E25372814871
+Good packet
+UID Rec.
+Tray present
+Done
+COM3: -> SS04C01A8E
+COM3: <- SS04FF1A0C
+Good packet
+The thread 0x3f6c has exited with code 0 (0x0).
+COM3: <- SS04A89BFD
+Good packet
+COM3: -> SS05A400D64E
+COM3: <- SS04FF1A0C
+Good packet
+The thread 0x2bd8 has exited with code 0 (0x0).
+COM3: <- SS04A89BFD
+Good packet
+COM3: -> SS04A51BD0
+COM3: <- SS04FF1A0C
+Good packet
+COM3: <- SS04A89BFD
+Good packet
+COM9: -> WS
+
+COM9: <- WS A 2
+COM9: -> WS 0
+
+COM9: <- WS A
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 0
+COM9: -> S
+
+COM9: <- S S   33.61745 g
+COM9: -> SIR
+
+COM9: <- S D   33.61745 g
+COM9: <- S S   33.61745 g
+Mass stable <1>: 33,61745
+COM9: <- S S   33.61745 g
+Mass stable <2>: 33,61745
+COM9: <- S S   33.61745 g
+Mass stable <3>: 33,61745
+COM9: <- S S   33.61745 g
+Mass stable <4>: 33,61745
+COM9: <- S S   33.61745 g
+Mass stable <5>: 33,61745
+COM9: <- S S   33.61745 g
+Mass stable <6>: 33,61745
+COM9: <- S S   33.61745 g
+Mass stable <7>: 33,61745
+COM9: <- S S   33.61745 g
+Mass stable <8>: 33,61745
+COM9: <- S S   33.61745 g
+Mass stable <9>: 33,61745
+COM9: <- S S   33.61745 g
+Mass stable <10>: 33,61745
+COM9: <- S S   33.61745 g
+Mass stable <11>: 33,61745
+COM9: <- S S   33.61745 g
+Mass stable <12>: 33,61745
+COM9: <- S S   33.61745 g
+Mass stable <13>: 33,61745
+COM9: <- S S   33.61745 g
+Mass stable <14>: 33,61745
+COM9: <- S S   33.61745 g
+Mass stable <15>: 33,61745
+COM9: <- S S   33.61745 g
+Mass stable <16>: 33,61745
+COM9: <- S S   33.61745 g
+Mass stable <17>: 33,61745
+COM9: <- S S   33.61745 g
+Mass stable <18>: 33,61745
+COM9: <- S S   33.61745 g
+Mass stable <19>: 33,61745
+COM9: <- S S   33.61745 g
+Mass stable <20>: 33,61745
+COM9: <- S S   33.61745 g
+Mass stable <21>: 33,61745
+COM9: <- S S   33.61745 g
+Mass stable <22>: 33,61745
+COM9: <- S S   33.61745 g
+Mass stable <23>: 33,61745
+COM9: <- S S   33.61745 g
+Mass stable <24>: 33,61745
+COM9: <- S S   33.61745 g
+Mass stable <25>: 33,61745
+COM9: <- S S   33.61745 g
+Mass stable <26>: 33,61745
+COM9: <- S S   33.61745 g
+Mass stable <27>: 33,61745
+COM9: <- S S   33.61745 g
+Mass stable <28>: 33,61745
+The thread 0x4180 has exited with code 0 (0x0).
+COM9: <- S S   33.61745 g
+Mass stable <29>: 33,61745
+COM9: <- S S   33.61746 g
+Stability reset: 33,61746
+COM9: <- S S   33.61746 g
+Mass stable <1>: 33,61746
+COM9: <- S S   33.61746 g
+Mass stable <2>: 33,61746
+COM9: <- S S   33.61746 g
+Mass stable <3>: 33,61746
+COM9: <- S S   33.61746 g
+Mass stable <4>: 33,61746
+COM9: <- S S   33.61746 g
+Mass stable <5>: 33,61746
+COM9: <- S S   33.61746 g
+Mass stable <6>: 33,61746
+COM9: <- S S   33.61746 g
+Mass stable <7>: 33,61746
+COM9: <- S D   33.61747 g
+COM9: <- S D   33.61747 g
+COM9: <- S D   33.61747 g
+COM9: <- S D   33.61747 g
+COM9: <- S D   33.61747 g
+COM9: <- S D   33.61747 g
+COM9: <- S D   33.61747 g
+COM9: <- S D   33.61747 g
+COM9: <- S D   33.61747 g
+COM9: <- S D   33.61748 g
+COM9: <- S D   33.61748 g
+COM9: <- S D   33.61748 g
+COM9: <- S D   33.61748 g
+COM9: <- S D   33.61748 g
+COM9: <- S D   33.61748 g
+COM9: <- S D   33.61748 g
+COM9: <- S D   33.61748 g
+COM9: <- S D   33.61748 g
+COM9: <- S D   33.61748 g
+COM9: <- S D   33.61748 g
+COM9: <- S D   33.61748 g
+COM9: <- S D   33.61748 g
+COM9: <- S D   33.61748 g
+COM9: <- S D   33.61748 g
+COM9: <- S D   33.61748 g
+COM9: <- S D   33.61748 g
+COM9: <- S D   33.61748 g
+COM9: <- S D   33.61748 g
+COM9: <- S D   33.61748 g
+COM9: <- S D   33.61749 g
+COM9: <- S D   33.61749 g
+COM9: <- S D   33.61749 g
+COM9: <- S D   33.61749 g
+COM9: <- S D   33.61749 g
+COM9: <- S D   33.61749 g
+COM9: <- S D   33.61749 g
+COM9: <- S D   33.61749 g
+COM9: <- S D   33.61749 g
+COM9: <- S D   33.61749 g
+COM9: <- S D   33.61749 g
+COM9: <- S D   33.61749 g
+COM9: <- S D   33.61749 g
+COM9: <- S D   33.61749 g
+COM9: <- S D   33.61749 g
+COM9: <- S D   33.61749 g
+COM9: <- S D   33.61749 g
+COM9: <- S D   33.61750 g
+COM9: <- S D   33.61750 g
+COM9: <- S D   33.61750 g
+COM9: <- S D   33.61750 g
+COM9: <- S D   33.61750 g
+COM9: <- S D   33.61750 g
+COM9: <- S D   33.61750 g
+COM9: <- S D   33.61750 g
+COM9: <- S D   33.61750 g
+COM9: <- S D   33.61750 g
+COM9: <- S D   33.61750 g
+COM9: <- S D   33.61750 g
+COM9: <- S D   33.61750 g
+COM9: <- S D   33.61750 g
+COM9: <- S D   33.61750 g
+COM9: <- S D   33.61750 g
+COM9: <- S D   33.61750 g
+COM9: <- S D   33.61750 g
+COM9: <- S D   33.61751 g
+COM9: <- S D   33.61751 g
+COM9: <- S D   33.61751 g
+COM9: <- S D   33.61751 g
+COM9: <- S D   33.61751 g
+COM9: <- S D   33.61751 g
+COM9: <- S D   33.61751 g
+COM9: <- S D   33.61751 g
+COM9: <- S D   33.61751 g
+COM9: <- S D   33.61751 g
+COM9: <- S D   33.61751 g
+COM9: <- S D   33.61751 g
+COM9: <- S D   33.61751 g
+COM9: <- S D   33.61751 g
+COM9: <- S D   33.61751 g
+COM9: <- S D   33.61751 g
+COM9: <- S D   33.61751 g
+COM9: <- S D   33.61751 g
+COM9: <- S D   33.61752 g
+COM9: <- S D   33.61752 g
+COM9: <- S D   33.61752 g
+COM9: <- S D   33.61752 g
+COM9: <- S D   33.61752 g
+COM9: <- S D   33.61752 g
+COM9: <- S D   33.61752 g
+COM9: <- S D   33.61752 g
+COM9: <- S D   33.61752 g
+COM9: <- S D   33.61752 g
+COM9: <- S D   33.61752 g
+COM9: <- S D   33.61752 g
+COM9: <- S D   33.61752 g
+COM9: <- S D   33.61752 g
+COM9: <- S D   33.61752 g
+COM9: <- S D   33.61752 g
+COM9: <- S D   33.61752 g
+COM9: <- S D   33.61752 g
+COM9: <- S D   33.61752 g
+COM9: <- S D   33.61752 g
+COM9: <- S D   33.61752 g
+COM9: <- S D   33.61752 g
+COM9: <- S D   33.61752 g
+COM9: <- S D   33.61752 g
+COM9: <- S D   33.61752 g
+COM9: <- S D   33.61752 g
+COM9: <- S D   33.61752 g
+COM9: <- S D   33.61752 g
+COM9: <- S D   33.61752 g
+COM9: <- S D   33.61752 g
+COM9: <- S D   33.61752 g
+COM9: <- S D   33.61752 g
+COM9: <- S D   33.61752 g
+COM9: <- S D   33.61752 g
+COM9: <- S D   33.61753 g
+COM9: <- S D   33.61753 g
+COM9: <- S D   33.61753 g
+COM9: <- S D   33.61753 g
+COM9: <- S D   33.61753 g
+COM9: <- S D   33.61753 g
+COM9: <- S D   33.61753 g
+COM9: <- S D   33.61753 g
+COM9: <- S D   33.61753 g
+COM9: <- S D   33.61753 g
+COM9: <- S D   33.61753 g
+COM9: <- S D   33.61753 g
+COM9: <- S D   33.61753 g
+COM9: <- S D   33.61753 g
+COM9: <- S D   33.61753 g
+COM9: <- S D   33.61753 g
+COM9: <- S D   33.61753 g
+COM9: <- S D   33.61753 g
+COM9: <- S D   33.61753 g
+COM9: <- S D   33.61753 g
+COM9: <- S D   33.61754 g
+COM9: <- S D   33.61754 g
+COM9: <- S D   33.61754 g
+COM9: <- S D   33.61754 g
+COM9: <- S S   33.61754 g
+Stability reset: 33,61754
+COM9: <- S S   33.61754 g
+Mass stable <1>: 33,61754
+COM9: <- S S   33.61754 g
+Mass stable <2>: 33,61754
+COM9: <- S S   33.61754 g
+Mass stable <3>: 33,61754
+COM9: <- S S   33.61754 g
+Mass stable <4>: 33,61754
+COM9: <- S S   33.61754 g
+Mass stable <5>: 33,61754
+COM9: <- S S   33.61754 g
+Mass stable <6>: 33,61754
+COM9: <- S S   33.61754 g
+Mass stable <7>: 33,61754
+COM9: <- S S   33.61754 g
+Mass stable <8>: 33,61754
+COM9: <- S S   33.61754 g
+Mass stable <9>: 33,61754
+COM9: <- S S   33.61754 g
+Mass stable <10>: 33,61754
+COM9: <- S S   33.61754 g
+Mass stable <11>: 33,61754
+COM9: <- S S   33.61754 g
+Mass stable <12>: 33,61754
+COM9: <- S S   33.61754 g
+Mass stable <13>: 33,61754
+COM9: <- S S   33.61754 g
+Mass stable <14>: 33,61754
+COM9: <- S S   33.61754 g
+Mass stable <15>: 33,61754
+COM9: <- S S   33.61754 g
+Mass stable <16>: 33,61754
+COM9: <- S S   33.61754 g
+Mass stable <17>: 33,61754
+COM9: <- S S   33.61754 g
+Mass stable <18>: 33,61754
+COM9: <- S S   33.61754 g
+Mass stable <19>: 33,61754
+COM9: <- S S   33.61754 g
+Mass stable <20>: 33,61754
+COM9: <- S S   33.61754 g
+Mass stable <21>: 33,61754
+COM9: <- S S   33.61754 g
+Mass stable <22>: 33,61754
+The thread 0x2c38 has exited with code 0 (0x0).
+COM9: <- S S   33.61754 g
+Mass stable <23>: 33,61754
+COM9: <- S D   33.61754 g
+COM9: <- S D   33.61754 g
+COM9: <- S D   33.61754 g
+COM9: <- S D   33.61754 g
+COM9: <- S D   33.61754 g
+COM9: <- S D   33.61754 g
+COM9: <- S D   33.61755 g
+COM9: <- S D   33.61755 g
+COM9: <- S D   33.61755 g
+COM9: <- S D   33.61755 g
+COM9: <- S D   33.61755 g
+COM9: <- S D   33.61755 g
+COM9: <- S D   33.61755 g
+COM9: <- S S   33.61755 g
+Stability reset: 33,61755
+COM9: <- S D   33.61755 g
+COM9: <- S S   33.61755 g
+Mass stable <1>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <2>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <3>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <4>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <5>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <6>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <7>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <8>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <9>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <10>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <11>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <12>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <13>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <14>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <15>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <16>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <17>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <18>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <19>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <20>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <21>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <22>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <23>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <24>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <25>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <26>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <27>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <28>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <29>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <30>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <31>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <32>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <33>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <34>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <35>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <36>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <37>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <38>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <39>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <40>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <41>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <42>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <43>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <44>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <45>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <46>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <47>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <48>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <49>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <50>: 33,61755
+COM9: <- S S   33.61755 g
+Mass stable <51>: 33,61755
+COM9: -> SI
+
+COM9: -> WS
+
+COM9: <- WS A 0
+COM9: -> WS 2
+
+COM9: <- W S   33.61755 2
+COM9: -> WS
+
+COM9: <- WS A
+COM9: -> WS
+
+COM9: <- WSWA S
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 2
+COM3: -> SS05A6005A4D
+COM9: -> WS
+
+COM9: <- WS A 2
+COM9: -> WS 0
+
+COM3: <- SS04FF1A0C
+Good packet
+COM9: <- WS A
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM3: -> SS04B11BA8
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM3: <- SS05F8E49C13
+Good packet
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 2
+COM9: -> WS 0
+
+COM9: <- WS A
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 9
+COM9: -> WS
+
+COM9: <- WS A 0
+COM9: -> K 1
+
+COM9: <- K A
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- PWR 
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- PW
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EPW
+COM9: <- L
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <-  L
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- 0L
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELP
+COM9: <- L
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELPEL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- E 
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- 
+COM9: -> PWR 0
+
+COM9: <- ELWEL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- 
+COM9: <- L
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- E0
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EP
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <-  L
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- E
+COM9: <- 
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <-  L
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EW
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- WL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- E 0EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELPWL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- L
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELP
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- ELEL
+COM9: -> PWR 0
+
+COM9: <- WL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELP
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <-  L
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL0EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELPEL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELPWEL
+COM9: <- L
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELPWL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- 0L
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EW
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EW
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- ELPWEL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- E
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELP
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EW
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELW
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- 0L
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELW
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EP
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EP
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- WL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELP
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- ELREL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- E 
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- ER
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELPWL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EP
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- 
+COM9: -> PWR 0
+
+COM9: <- L
+COM9: <-  L
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELP
+COM9: <- 0L
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- L
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- 0L
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELPWL
+COM9: <- 
+COM9: -> PWR 0
+
+COM9: <- 
+COM9: <-  L
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EPW
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- E
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELR
+COM9: -> PWR 0
+
+COM9: <- ELW
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EWREL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- L
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- E0
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL0
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL0EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- L
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- RL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- 0L
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <-  0
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EP
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- WL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- ELPWEL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- WL
+COM9: -> PWR 0
+
+COM9: <- EPW
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EP
+COM9: <- 0L
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELPWEL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELP
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- WL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- ELPWEL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- ELPEL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM3: <- SS04A89BFD
+Good packet
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- ELEL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELR
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELWEL
+COM9: -> PWR 0
+
+COM9: <- E0
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EW
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EP
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- WL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- 0L
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- ELPEL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELW
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EW
+COM9: -> PWR 0
+
+COM9: <- 0L
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- RL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- WL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <-  L
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- WL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- RL0EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL0
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL 
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- WL
+COM9: <- L
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELPWEL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELPEL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL0
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EP
+COM9: <- EL
+COM9: <- 
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- PL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EW
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- E 
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- ELP
+COM9: <- L
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EW
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <-  L
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EP
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELWELREL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- 
+COM9: <- L
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- L
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- PL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELW
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- E
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- 
+COM9: <- L
+COM9: -> PWR 0
+
+COM9: <- ELW
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- E
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL0
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- E
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- ELWEL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL EL
+COM9: <- 0
+COM9: <- 
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- WL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELW
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EWREL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELP
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EW
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- WL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- WL
+COM9: -> PWR 0
+
+COM9: <- E
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- RL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL0
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- E 
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- E 
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- ELPWEL
+COM9: -> PWR 0
+
+COM9: <- PL
+COM9: -> PWR 0
+
+COM9: <- EW
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- E
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- E
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- L
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- PL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- 0L
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- E 
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- ELWEL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <-  L
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- E 
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <-  L
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- WL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- L
+COM9: -> PWR 0
+
+COM9: <- PL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EW
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- E0
+COM9: -> PWR 0
+
+COM9: <- EPW
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- ELWEL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- ELWEL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- ELR
+COM9: -> PWR 0
+
+COM9: <- EW
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: -> PWR 0
+
+COM9: <- EL
+COM9: -> PWR 0
+
+COM9: <- EL
+COM3: -> SS04B11BA8
+COM9: -> WS
+
+COM9: <- ELS
+COM9: -> WS
+
+COM9: <- EL
+COM9: -> WS
+
+COM9: -> WS
+
+COM9: <- EL
+COM9: -> WS
+
+COM9: <- EL
+COM9: <- EL
+COM3: <- SS04FF1A0C
+Good packet
+COM9: -> WS
+
+COM9: <- EL
+COM9: -> WS
+
+COM9: <- EL
+COM9: -> WS
+
+COM9: <- EL
+Halted due to error: Scale responding: EL
+COM9: <- EL
+COM9: -> WS
+
+COM9: <- EL
+COM3: <- SS04A89BFD
+Good packet
+The thread 0x2508 has exited with code 0 (0x0).
+The thread 0x2e08 has exited with code 0 (0x0).
+The thread 0x164c has exited with code 0 (0x0).
+The thread 0x40e4 has exited with code 0 (0x0).
+The thread 0x4b3c has exited with code 0 (0x0).
+The thread 0x4e8 has exited with code 0 (0x0).
+The thread 0x3770 has exited with code 0 (0x0).
+The thread 0x2f34 has exited with code 0 (0x0).
+The thread 0x4594 has exited with code 0 (0x0).
+The thread 0x18ac has exited with code 0 (0x0).
+The thread 0x339c has exited with code 0 (0x0).
+The thread 0xad0 has exited with code 0 (0x0).
+The thread 0x1720 has exited with code 0 (0x0).
+The thread 0x423c has exited with code 0 (0x0).
+The thread 0x220 has exited with code 0 (0x0).
+The thread 0x4050 has exited with code 0 (0x0).
+The thread 0x3eac has exited with code 0 (0x0).
+The thread 0x3148 has exited with code 0 (0x0).
+The thread 0x1e1c has exited with code 0 (0x0).
+The thread 0x1a20 has exited with code 0 (0x0).
